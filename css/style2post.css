@@ -379,7 +379,7 @@ button:focus,
   padding-top: 3%;
 }
 
-.grid_item h1 {
+.grid_item h2 {
   color: var(--text-color);
   display: flex;
   justify-content: center;
